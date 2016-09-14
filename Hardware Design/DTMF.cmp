@@ -1,0 +1,234 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 2/24/2016 6:47:31 PM
+
+BeginCmp
+TimeStamp = /4FE456C6;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FE456D4;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE97;
+Reference = D1;
+ValeurCmp = 5.6V;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE96;
+Reference = D2;
+ValeurCmp = 5.6V;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9E;
+Reference = D3;
+ValeurCmp = 1N14148;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE8E;
+Reference = D4;
+ValeurCmp = Q1;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE8D;
+Reference = D5;
+ValeurCmp = Q2;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE8A;
+Reference = D6;
+ValeurCmp = Q3;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE89;
+Reference = D7;
+ValeurCmp = Q4;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE86;
+Reference = D8;
+ValeurCmp = int;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FE45C50;
+Reference = D9;
+ValeurCmp = pwr;
+IdModule  = EE:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFEA3;
+Reference = IC1;
+ValeurCmp = MT8870P;
+IdModule  = DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFF03;
+Reference = P1;
+ValeurCmp = POWER 5V;
+IdModule  = Connect:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE95;
+Reference = P2;
+ValeurCmp = AUDIO_IN;
+IdModule  = EE:SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFF24;
+Reference = P3;
+ValeurCmp = OUTPUT;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDA7A1;
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDAD89;
+Reference = P5;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDAF8E;
+Reference = P6;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDB070;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDB0F2;
+Reference = P8;
+ValeurCmp = CONN_01X01;
+IdModule  = EE:M3_mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9B;
+Reference = R1;
+ValeurCmp = 56K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9A;
+Reference = R2;
+ValeurCmp = 56K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE94;
+Reference = R3;
+ValeurCmp = 56K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE93;
+Reference = R4;
+ValeurCmp = 56K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9C;
+Reference = R5;
+ValeurCmp = 330K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE92;
+Reference = R6;
+ValeurCmp = 47K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE91;
+Reference = R7;
+ValeurCmp = 68K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9D;
+Reference = R8;
+ValeurCmp = 100K;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE90;
+Reference = R9;
+ValeurCmp = 150k;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FE4540C;
+Reference = R10;
+ValeurCmp = 470;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FE45C47;
+Reference = R11;
+ValeurCmp = 470;
+IdModule  = Discret:R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C4D4D3;
+Reference = U1;
+ValeurCmp = 3.5MM_JACK;
+IdModule  = SparkFun-AUDIO-JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F4DFE9F;
+Reference = X1;
+ValeurCmp = 3.5795MHz;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe
